@@ -1,0 +1,6 @@
+*.o
+*.swp
+*.bak
+staging_dir
+xCompile.sh
+
